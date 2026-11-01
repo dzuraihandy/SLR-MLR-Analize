@@ -48,7 +48,7 @@ MLR digunakan untuk menganalisis hubungan linear antara **dua atau lebih variabe
 Model umum:
 
 \[
-Y = a + b_1X_1 + b_2X_2 + \cdots + b_nX_n + e
+Y = a + b1X1 + b2X2 + b..x.. + e
 \]
 
 Keterangan:
